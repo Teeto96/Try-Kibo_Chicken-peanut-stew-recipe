@@ -1,0 +1,14 @@
+/* A little bit of spacing for the recipe */
+body {
+  margin: 8vh 8vw;
+}
+body {
+  color: brown;
+}
+h1, h2 {
+  text-align: center;
+}
+img {
+  width: 200px;
+  height: 100px;
+}
